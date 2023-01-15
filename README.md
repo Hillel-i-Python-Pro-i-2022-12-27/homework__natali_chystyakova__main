@@ -1,4 +1,5 @@
 **Hello everyone, my name is Natalie**
+---
 *Student Hillel IT School, I am from Dnipro.*
 ---
 * for install and update requiremets before run projet: make init-dev
