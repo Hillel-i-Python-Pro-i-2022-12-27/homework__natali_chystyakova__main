@@ -1,10 +1,10 @@
-from application import name_female
-from application import color_name
+from application import get_name_female
+from application import get_color_name
 
 
-def fashion_girls() -> None:
-    print(f"Hi! My name is {name_female()}. I dye my hair {color_name()}")  # Press Ctrl+F8 to toggle the breakpoint.
+def fashion_girl_says() -> None:
+    print(f"Hi i'm {get_name_female()}. I dye my hair {get_color_name()}")  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 if __name__ == "__main__":
-    fashion_girls()
+    fashion_girl_says()

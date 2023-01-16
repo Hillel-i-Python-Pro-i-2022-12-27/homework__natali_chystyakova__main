@@ -2,8 +2,10 @@
 ---
 *Student Hillel IT School, I am from Dnipro.*
 ---
-* for install and update requiremets before run projet: make init-dev
-* for run this project without docker: make homework-i-run
-* for run this project with docker: make d-homework-i-run
-* for purge without docker: make homework-i-purge
-* for purge with docker: make d-homework-i-purge
+# :house:  Homework 3 
+
+* :wrench: install and update requiremets before run projet: make init-dev
+* :arrow_forward: run this project without docker: make homework-i-run
+* :whale: run this project with docker: make d-homework-i-run
+* :end: purge without docker: make homework-i-purge
+* :anchor: purge with docker: make d-homework-i-purge
